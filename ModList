@@ -1,0 +1,87 @@
+My list of mods in alphabetical order
+Some mods are paid and available through patreon, specifically Naluluna mods and ReeSabers.
+Some mods might have dependencies that are installed outside of the plugins folder, these are not included in the list but are included on those mods github pages
+
+1: audiolink                          -allows certains thing to be audio reactive.
+2: beatFollower                       -plugin for keep track of your in game activities and recommending maps to other people.
+3: BeatLeader                         -Custom LeaderBoard.
+4: BeatMapInformation                 -information window that can be fairly customized, i use it with Counters+ for my hud.
+5: beatSaberCinema                    -plugin that lets you play a video in a map.
+6: BeatSaberPlus (and all the addons) -big multipurpose mod, custom song multiplayer, twitch chat, game tweaks, etc. is a must download.
+7: BeatSaverDownloader                -Mod for Beat Saber to download songs from BeatSaver.com in-game.
+8: BeatSaverUpdater                   -Alerts you of updates to maps and updates them to the latest version.
+9: BeatSaverVoting                    -Lets you vote on maps unploaded to beatsaver.
+10: BeatSaviorData                    -A mod to upload additional data to Beat Savior.
+11: BeatTogether                      -A multiplayer private server for the modding community. Supports crossplay between PC and Quest.
+12: BetterPause                       -Allows you to fix the uncustomizable and ugly pause menu.
+13: BetterSongList                    -Adds Various improvements to the Basegame song list like Filters, a persisted state and much more.
+14: BetterSongSearch                  -Search and download songs with a lot of filtering and sorting options in Beat Saber.
+15: BSUtils                           -A basic library for beat saber mods to use
+16: BSRPC                             -Beat saber discord rich presence.
+17: Camera2                           -Adds a lot of options / tools for creating more advanced desktop viewing.
+18: CameraUtils                       -BeatSaber modding utils for flexible render control.
+19: Chroma                            -Allows mappers and players to customize colors, environtments and more.
+20: Controller settingsHelper         -Utility that contains various tools to help you find optimal controller settings.
+21: ControllerTweaks                  -Remap Oculus Controllers, Enable Controller Swap or change Controller Offsets.
+22: Counters+ (my own version)        -A combination of widely-used counters, all configurable in one Beat Saber mod.
+23: CustomJSONData                    -Beat Saber plugin library to allow adding arbitrary data to beatmap JSONs
+24: CustomNotes                       -Adds custom notes to beat saber.
+25: CustomPlatforms                   -A BSIPA Plugin for Beat Saber that adds support for custom environments (platforms)
+26: DiscordCore                       -requirement for BSRPC.
+27: DiTails                           -View extra details about a map in Beat Saber, such as cover art and BSR code.
+28: Enhancements                      -Adds various extra features into Beat Saber like a clock and volume adjustment.
+29: EnvironmentHider                  -A plugin that allows you to disable any object in any environment.
+30: FastFail                          -Makes failing a song not take as long.
+31: FCPercentage                      -Shows you what your accuracy would've been had you not missed, and adds a counters+ counter for your hud.
+32: GottaGoFast                       -Significantly decreases the time it takes to Restart, start and leave songs.
+33: Heck                              -Requirement for Chroma and NoodleExtensions
+34: HighlightBombs                    -Adds a white outline to bombs
+35: Hitbloq                           -An ingame leaderboard for Hitbloq.
+36: HitScoreCounter                   -Counters+ addon that counts the scores of your cuts grouped into configurable ranges
+37: HitScoreVisualizer                -Allows you to heavily customize the appearance of hit scores.
+38: HitsoundTweaks                    -Beat Saber mod that adds more configurability to hitsounds, and fixes several base game bugs to make them more reliable and consistent.
+39: IForgor                           -A Beat Saber mod that shows the direction of the last blocks and the angle of your sabers before you paused.
+40: ImageFactory                      -Place and customize images throughout your game.
+41: ImBlindedByTheLights              -Static lights - But only in VR or only on Desktop
+42: IntroSkip                         -Allows you to skip intros and outros of songs that are longer than 5 seconds without any significant objects.
+43: JDFixer                           -Allows automated forcing of jump distance and reaction time.
+44: LeaderboardCore                   -A library for custom leaderboards to attach to Beat Saber.
+45: Link                              -Adds a !link command to your stream which posts the BeatSaver link to the actively played map in your chat.
+46: LocalLeaderboard                  -A library for custom leaderboards to attach to Beat Saber.
+47: MappingExtensions                 -Adds additional things for mappers
+48: MorePlaylists                     -Lets you download playlists from BeatSaver, Hitbloq and AccSaber ingame.
+49: MultiplayerCore                   -A Beat Saber mod that implements core custom multiplayer functionality.
+50: MultiplayerExtensions             -A Beat Saber mod that expands multiplayer functionality.
+51: NalulunaDesktop                   -Adds desktop windows to your beatsaber, fully interactable with your controllers, fully customizable
+52: NalulunaFPS                       -adds a customizable detailed FPS counter, with features such as frame time and cpu time
+53: NalulunaUtils                     -(i forgot)
+54: NoodleExtensions                  -This mod lets you see cool things that mappers have put in their maps.
+55: OverrideEnvirontmentFix           -Stop your environment override options from reset every time you launch beat saber
+56: OverswingCounter                  -Counters+ addon that shows you which swing angle you have too much, or too little of, compared to a 'perfect' swing.
+57: ParticleOverdrive                 -Complete customizability to all particles
+58: PBOT (personal best over time)    -Counters+ addon that shows the accuracy of someone's personal best soyou know if you are doing better or worse at any particular point compared to your top play.
+58: PlayFirstSubmitLater              -Allows for automated elective score submission, including preventing submission of failed NF scores
+59: PlaylistManager                   -Playlist loading and organization mod for Beat Saber.
+60: PPPredictor                       -A mod that allows you to see how many PP (and rank) you could earn for a specific play. Main menu window and Counters+ counter.
+61: ReeSabers                         -very sexy sabers from beatleader patreon mmmmmyes.
+62: SaberFactory                      -Custom sabers (not as sexy as reesabers)
+63: SaberTailor                       -A Beat Saber mod to customize the grip position/angle of the sabers, trail appearance and saber length/width.
+63: ScorePercentage                   -Replaces the "Rank" in Map Result Screen with score percentage and adds score percentage to the "Highscore" in the Level Selection Menu below the Leaderboard.
+64: ScoreSaber                        -Custom leaderboard
+65: SearchFixes                       -An improved search algorithm for Beat Saber
+66: ServerBrowser                     -Adds a Server Browser to the Online menu, making it easy to share and join custom multiplayer games.
+67: SiraUtil                          -Library mod, required by many other mods.
+68: SmallMenu                         -Makes your menu smaller, Customizable.
+69: SmartSongSuggest                  -This mod allows suggesting and searching ranked songs based on your play history.
+70: SongCore                          -A plugin for handling custom song additions in Beat Saber.
+71: SongDataCore                      -manages scraped data from various sources.
+72: SongRankedBadge                   -Shows badge on the cover of songs that are ranked. Includes seperate badges for Beatleader ranked, scoresaber ranked and ranked on both leaderboards
+73: SoundReplacer                     -Allows you to change good/bad hitsounds, menu music, menu clicks, level cleared/failed music.
+74: TakeMeToResults                   -A simple mod that adds a button to the song list screen which takes you to the results screen of your last play.
+75: Technicolor                       -Lets you add rainbow colors to your lights, notes, walls, sabers, and bombs.
+76: ToggleReplayInfo                  -Lets you disable Score Sabers replay text for your replays only.
+77: TransparentWall                   -Lets you make walls transparent, with an option for headset only.
+78: TrickSaber                        -Saber go WEEEE or saber go SPEEEEEN.
+79: Tweaks55                          -A collection of various tweaks which by themselves are too simple for their own designated mods.
+80: UiTweaks                          -Lets you customize the colors of many parts of the beat saber hud.
+81: WhyIsThereNoLeaderboard           -clarifies why leaderboards on custom songs are not supported and allows the user to download one.
