@@ -38,7 +38,7 @@ Some mods might have dependencies that are installed outside of the plugins fold
 34: HighlightBombs                    -Adds a white outline to bombs
 35: Hitbloq                           -An ingame leaderboard for Hitbloq.
 36: HitScoreCounter                   -Counters+ addon that counts the scores of your cuts grouped into configurable ranges
-37: HitScoreVisualizer                -Allows you to heavily customize the appearance of hit scores.
+37: HitScoreVisualizer (Custom build) -Allows you to heavily customize the appearance of hit scores.
 38: HitsoundTweaks                    -Beat Saber mod that adds more configurability to hitsounds, and fixes several base game bugs to make them more reliable and consistent.
 39: IForgor                           -A Beat Saber mod that shows the direction of the last blocks and the angle of your sabers before you paused.
 40: ImageFactory                      -Place and customize images throughout your game.
