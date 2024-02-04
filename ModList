@@ -33,7 +33,7 @@ Some mods might have dependencies that are installed outside of the plugins fold
 29: EnvironmentHider                  -A plugin that allows you to disable any object in any environment.
 30: FastFail                          -Makes failing a song not take as long.
 31: FCPercentage                      -Shows you what your accuracy would've been had you not missed, and adds a counters+ counter for your hud.
-32: GottaGoFast                       -Significantly decreases the time it takes to Restart, start and leave songs.
+32: GottaGoFast  (Removed)            -Significantly decreases the time it takes to Restart, start and leave songs.
 33: Heck                              -Requirement for Chroma and NoodleExtensions
 34: HighlightBombs                    -Adds a white outline to bombs
 35: Hitbloq                           -An ingame leaderboard for Hitbloq.
